@@ -1,0 +1,11 @@
+C:\Users\INK\source\repos\Final 643450508-6\Final 643450508-6\obj\Debug\Final 643450508-6.csproj.AssemblyReference.cache
+C:\Users\INK\source\repos\Final 643450508-6\Final 643450508-6\obj\Debug\Final 643450508-6.csproj.SuggestedBindingRedirects.cache
+C:\Users\INK\source\repos\Final 643450508-6\Final 643450508-6\obj\Debug\Final_643450508_6.Form1.resources
+C:\Users\INK\source\repos\Final 643450508-6\Final 643450508-6\obj\Debug\Final_643450508_6.Properties.Resources.resources
+C:\Users\INK\source\repos\Final 643450508-6\Final 643450508-6\obj\Debug\Final 643450508-6.csproj.GenerateResource.cache
+C:\Users\INK\source\repos\Final 643450508-6\Final 643450508-6\obj\Debug\Final 643450508-6.csproj.CoreCompileInputs.cache
+C:\Users\INK\source\repos\Final 643450508-6\Final 643450508-6\bin\Debug\Final 643450508-6.exe.config
+C:\Users\INK\source\repos\Final 643450508-6\Final 643450508-6\bin\Debug\Final 643450508-6.exe
+C:\Users\INK\source\repos\Final 643450508-6\Final 643450508-6\bin\Debug\Final 643450508-6.pdb
+C:\Users\INK\source\repos\Final 643450508-6\Final 643450508-6\obj\Debug\Final 643450508-6.exe
+C:\Users\INK\source\repos\Final 643450508-6\Final 643450508-6\obj\Debug\Final 643450508-6.pdb
